@@ -17,7 +17,7 @@
 Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
 
 <b>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+<a [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</a>
 </b>
 ### VIA VPS
 
