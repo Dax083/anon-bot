@@ -1,15 +1,11 @@
 # TelegramChat
 
 
-<p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
-
 <p align="center">
-  <a href="https://github.com/Dax083/TelegramChat/fork">
-    <img src="https://img.shields.io/github/forks/Dax083/TelegramChat?style=plastic&logo=github&logoColor=red"width="100" height="40">
-    
+  <a href="https://github.com/Dax083/anon-bot">
+   
   </a>
-  <a href="https://github.com/kenkannih/TelegramChat">
-    <img src="https://img.shields.io/github/stars/kenkansaja/TelegramChat?style=plastic&logo=github&logoColor=red"width="100" height="40">
+  <a href="https://github.com/Dax083/anon-bot">
   </a>
 </p>  
 
@@ -26,8 +22,8 @@ Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
 ### VIA VPS
 
 ```console
-$ git clone https://github.com/kenkansaja/TelegramChat
-$ cd TelegramChat
+$ git clone https://github.com/Dax083/anon-bot
+$ cd anon-bot
 $ pip3 install -U -r requirements.txt
 $ nano config.py
 $ screen -S TelegramChat
@@ -40,15 +36,16 @@ $ python3 ChatBot.py
 <a href="https://t.me/vvslh_pro"><img src="https://img.shields.io/badge/SUPPORT GROUP-black?style=for-the-badge&logo=Telegram" /></a>
 
 ---
-### ✔️ FITUR SUPPORT
+### ✔️ FITUR SUPPORT BOT 
 
-- [X] TEXT
-- [X] FOTO
-- [X] VIDEO
-- [X] STICKER
-- [X] PESAN SUARA
-- [X] PESAN TERUSAN
+- [✓] TEXT
+- [✓] FOTO
+- [✓] VIDEO
+- [✓] STICKER
+- [✓] PESAN SUARA
+- [✓] PESAN TERUSAN
 ---
 ## CREDIT
-* [KEN KAN](https://github.com/kenkansaja/TelegramChat)
+* [](https://github.com/Dax083/anon-bot)
+Thanks for all development 🙏
 
