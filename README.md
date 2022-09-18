@@ -4,8 +4,8 @@
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
 
 <p align="center">
-  <a href="https://github.com/kenkannih/TelegramChat/fork">
-    <img src="https://img.shields.io/github/forks/kenkansaja/TelegramChat?style=plastic&logo=github&logoColor=red"width="100" height="40">
+  <a href="https://github.com/Dax083/TelegramChat/fork">
+    <img src="https://img.shields.io/github/forks/Dax083/TelegramChat?style=plastic&logo=github&logoColor=red"width="100" height="40">
     
   </a>
   <a href="https://github.com/kenkannih/TelegramChat">
@@ -26,18 +26,18 @@ Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
 ### VIA VPS
 
 ```console
-kenkansaja@kenkansaja$ git clone https://github.com/kenkansaja/TelegramChat
-kenkansaja@kenkansaja$ cd TelegramChat
-kenkansaja@kenkansaja$ pip3 install -U -r requirements.txt
-kenkansaja@kenkansaja$ nano config.py
-kenkansaja@kenkansaja$ screen -S TelegramChat
-kenkansaja@kenkansaja$ python3 ChatBot.py
+$ git clone https://github.com/kenkansaja/TelegramChat
+$ cd TelegramChat
+$ pip3 install -U -r requirements.txt
+$ nano config.py
+$ screen -S TelegramChat
+$ python3 ChatBot.py
 ```
 
 ### TEMUKAN KAMI DI TELEGRAM
 
-<a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/OWNER KAN-blue?style=for-the-badge&logo=Telegram" /></a>
-<a href="https://t.me/musikkugroup"><img src="https://img.shields.io/badge/SUPPORT GROUP-black?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/kang_culiknew"><img src="https://img.shields.io/badge/OWNER KAN-blue?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/vvslh_pro"><img src="https://img.shields.io/badge/SUPPORT GROUP-black?style=for-the-badge&logo=Telegram" /></a>
 
 ---
 ### ✔️ FITUR SUPPORT
