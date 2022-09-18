@@ -32,7 +32,7 @@ $ python3 ChatBot.py
 
 ### TEMUKAN KAMI DI TELEGRAM
 
-<a href="https://t.me/kang_culiknew"><img src="https://img.shields.io/badge/OWNER KAN-blue?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/kang_culiknew"><img src="https://img.shields.io/badge/OWNER -blue?style=for-the-badge&logo=Telegram" /></a>
 <a href="https://t.me/vvslh_pro"><img src="https://img.shields.io/badge/SUPPORT GROUP-black?style=for-the-badge&logo=Telegram" /></a>
 
 ---
