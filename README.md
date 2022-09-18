@@ -26,7 +26,7 @@ $ git clone https://github.com/Dax083/anon-bot
 $ cd anon-bot
 $ pip3 install -U -r requirements.txt
 $ nano config.py
-$ screen -S TelegramChat
+$ screen -S anon-bot
 $ python3 ChatBot.py
 ```
 
